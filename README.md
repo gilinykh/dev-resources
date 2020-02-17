@@ -14,12 +14,12 @@ https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kaf
 https://github.com/openmessaging/specification/blob/master/specification-schema.md
 
 ## JVM bytecode
-https://blog.jamesdbloom.com/JVMInternals.html
-https://habr.com/ru/post/111456
-https://habr.com/ru/post/222519
-https://habr.com/ru/post/264919
-https://habr.com/ru/post/480550
-https://www.tune-it.ru/web/bleizard/blog/-/blogs/o-steke-i-kuce-v-kontekste-mira-java
+- [JVM internals](https://blog.jamesdbloom.com/JVMInternals.html)
+- [Java bytecode tutorial](https://www.jrebel.com/blog/java-bytecode-tutorial)
+- [Пул констант](https://habr.com/ru/post/222519)
+- [Java байткод "Hello world"](https://habr.com/ru/post/264919)
+- [Hello World из байт-кода для JVM](https://habr.com/ru/post/480550)
+- [О стеке и куче в Java](https://www.tune-it.ru/web/bleizard/blog/-/blogs/o-steke-i-kuce-v-kontekste-mira-java)
 
 ## Clean code
-SRP: https://habr.com/ru/post/465507
+- [Глубокое погружение в SRP](https://habr.com/ru/post/465507)
