@@ -23,3 +23,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 ## Clean code
 - [Глубокое погружение в SRP](https://habr.com/ru/post/465507)
+
+## Algorithms / Datastructures
+
+- [Big-O Cheatsheet] (https://www.bigocheatsheet.com/)
