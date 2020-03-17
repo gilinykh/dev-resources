@@ -26,4 +26,4 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 ## Algorithms / Datastructures
 
-- [Big-O Cheatsheet] (https://www.bigocheatsheet.com/)
+- [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
