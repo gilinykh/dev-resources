@@ -27,3 +27,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## Algorithms / Datastructures
 
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+
+## Productivity
+
+- [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
