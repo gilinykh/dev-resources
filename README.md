@@ -66,3 +66,4 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Samples 2](http://collectui.com)
 - [Samples 3](http://behance.net)
 - [Samples 4](http://onepagelove.com)
+- [Samples 5](http://uistore.design)
