@@ -27,7 +27,32 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## Algorithms / Datastructures
 
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+- [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
 
 ## Productivity
 
 - [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
+
+## Technology
+
+- [Build your own X](https://github.com/danistefanovic/build-your-own-x)
+
+## Books
+
+- [EBook Foundation](https://github.com/EbookFoundation/free-programming-books)
+
+## Interview
+
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+
+## System design
+
+- [System design primer](https://github.com/donnemartin/system-design-primer)
+
+## Command line
+
+- [The art of command line](https://github.com/jlevy/the-art-of-command-line)
+
+## Roadmaps
+
+- [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
