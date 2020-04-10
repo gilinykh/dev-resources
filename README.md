@@ -56,3 +56,13 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## Roadmaps
 
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+## UI
+
+- [Collaborative interface design tool](http://figma.com)
+- [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
+- [CSS Grid Real Example](https://www.youtube.com/watch?v=iNPE0zGucTo)
+- [Samples 1](http://dribbble.com)
+- [Samples 2](http://collectui.com)
+- [Samples 3](http://behance.net)
+- [Samples 4](http://onepagelove.com)
