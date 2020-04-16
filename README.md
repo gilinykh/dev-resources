@@ -72,3 +72,8 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [Useful Java links](https://github.com/Vedenin/useful-java-links/tree/master/link-rus)
+
+## Constraint programming
+
+- [Choco solver](https://github.com/chocoteam/choco-solver)
+- [OR tools](https://github.com/google/or-tools)
