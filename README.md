@@ -67,3 +67,8 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Samples 3](http://behance.net)
 - [Samples 4](http://onepagelove.com)
 - [Samples 5](http://uistore.design)
+
+## Java подборки
+
+- [Awesome Java](https://github.com/akullpp/awesome-java)
+- [Useful Java links](https://github.com/Vedenin/useful-java-links/tree/master/link-rus)
