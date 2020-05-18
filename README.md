@@ -20,6 +20,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Java байткод "Hello world"](https://habr.com/ru/post/264919)
 - [Hello World из байт-кода для JVM](https://habr.com/ru/post/480550)
 - [О стеке и куче в Java](https://www.tune-it.ru/web/bleizard/blog/-/blogs/o-steke-i-kuce-v-kontekste-mira-java)
+- [Варим байткод на кухне JVM](https://habr.com/ru/company/domclick/blog/500646/)
 
 ## Clean code
 - [Глубокое погружение в SRP](https://habr.com/ru/post/465507)
