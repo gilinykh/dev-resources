@@ -73,6 +73,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [Useful Java links](https://github.com/Vedenin/useful-java-links/tree/master/link-rus)
+- [Java & Files](https://www.marcobehler.com/guides/java-files)
 
 ## Constraint programming
 
