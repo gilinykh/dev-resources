@@ -75,6 +75,10 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Useful Java links](https://github.com/Vedenin/useful-java-links/tree/master/link-rus)
 - [Java & Files](https://www.marcobehler.com/guides/java-files)
 
+## Concurrency
+
+- [Лекториум - Параллельное программирование](https://www.lektorium.tv/course/23050)
+
 ## Constraint programming
 
 - [Choco solver](https://github.com/chocoteam/choco-solver)
