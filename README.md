@@ -33,6 +33,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## Productivity
 
 - [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
+- [Правильное использование Pomodoro](https://habr.com/ru/company/maxilect/blog/486238/)
 
 ## Technology
 
