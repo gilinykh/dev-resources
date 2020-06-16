@@ -58,6 +58,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## Roadmaps
 
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Карта навыков и модель развития тимлидов](https://github.com/tlbootcamp/tlroadmap)
 
 ## UI
 
