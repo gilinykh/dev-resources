@@ -70,6 +70,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Samples 3](http://behance.net)
 - [Samples 4](http://onepagelove.com)
 - [Samples 5](http://uistore.design)
+- [CSS layout tutorial step-by-step](https://daveceddia.com/implement-a-design-with-css/)
 
 ## Java подборки
 
