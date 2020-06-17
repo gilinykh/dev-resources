@@ -80,6 +80,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 ## Concurrency
 
+- [CSP for Java programmers](https://www.ibm.com/developerworks/library/j-csp1/index.html)
 - [Лекториум - Параллельное программирование](https://www.lektorium.tv/course/23050)
 
 ## Constraint programming
