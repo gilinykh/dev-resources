@@ -86,3 +86,10 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 - [Choco solver](https://github.com/chocoteam/choco-solver)
 - [OR tools](https://github.com/google/or-tools)
+
+## Blogs
+
+- [Java Magazine](https://blogs.oracle.com/javamagazine/)
+- [Java Weekly](https://www.baeldung.com/category/weekly-review/)
+- [Java Annotated Monthly](https://blog.jetbrains.com/idea/tag/java-annotated/)
+- [Inside the Java Platform](https://inside.java/)
