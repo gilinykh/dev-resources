@@ -88,6 +88,10 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Choco solver](https://github.com/chocoteam/choco-solver)
 - [OR tools](https://github.com/google/or-tools)
 
+## Functional
+
+- [Зачем нужны все эти функторы и монады?](https://habr.com/ru/post/212955/)
+
 ## Blogs
 
 - [Java Magazine](https://blogs.oracle.com/javamagazine/)
