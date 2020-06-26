@@ -13,6 +13,10 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
 https://github.com/openmessaging/specification/blob/master/specification-schema.md
 
+## Event sourcing
+
+- [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
+
 ## JVM bytecode
 - [JVM internals](https://blog.jamesdbloom.com/JVMInternals.html)
 - [Java bytecode tutorial](https://www.jrebel.com/blog/java-bytecode-tutorial)
