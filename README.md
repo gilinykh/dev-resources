@@ -59,10 +59,15 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 
-## Roadmaps
+## Growth
 
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+
+## People
+
 - [Карта навыков и модель развития тимлидов](https://github.com/tlbootcamp/tlroadmap)
+- [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
+- [Software Engineering Career Ladder example](https://docs.google.com/spreadsheets/d/12h50IYqd7fsO7tJ0l1OuHYbz5vN2d24a8EIDFhu2AZQ)
 
 ## UI
 
