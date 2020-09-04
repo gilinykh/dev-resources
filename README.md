@@ -34,11 +34,6 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 - [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
 
-## Productivity
-
-- [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
-- [Правильное использование Pomodoro](https://habr.com/ru/company/maxilect/blog/486238/)
-
 ## Technology
 
 - [Build your own X](https://github.com/danistefanovic/build-your-own-x)
@@ -46,6 +41,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## Books
 
 - [EBook Foundation](https://github.com/EbookFoundation/free-programming-books)
+- [ZLibrary](https://b-ok.xyz/)
 
 ## Interview
 
@@ -59,9 +55,12 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line)
 
-## Growth
+## Evolution
 
+- [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
+- [Правильное использование Pomodoro](https://habr.com/ru/company/maxilect/blog/486238/)
 - [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [First Year as a Solo Developer](https://mtlynch.io/solo-developer-year-1/)
 
 ## People
 
