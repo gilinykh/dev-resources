@@ -102,6 +102,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Зачем нужны все эти функторы и монады?](https://habr.com/ru/post/212955/)
 - [Functional data types implemented in Java](https://github.com/tonivade/purefun)
 - [Functional style domain modeling example](https://github.com/ddd-by-examples/library#functional-thinking)
+- [Java Lambda FAQ](http://www.lambdafaq.org/)
 
 ## Blogs
 
