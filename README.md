@@ -109,3 +109,4 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Java Weekly](https://www.baeldung.com/category/weekly-review/)
 - [Java Annotated Monthly](https://blog.jetbrains.com/idea/tag/java-annotated/)
 - [Inside the Java Platform](https://inside.java/)
+- [CodeFX](https://blog.codefx.org/)
