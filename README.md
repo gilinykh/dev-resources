@@ -18,6 +18,8 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 
 ## JVM bytecode
+- [The Java Language Specification - Chapter 3. Compiling for the Java Virtual Machine](https://docs.oracle.com/javase/specs/jvms/se15/html/jvms-3.html)
+  - [Java Bytecode Crash Course](https://inside.java/2019/09/17/video-bytecodecourse/)
 - [JVM internals](https://blog.jamesdbloom.com/JVMInternals.html)
 - [Java bytecode tutorial](https://www.jrebel.com/blog/java-bytecode-tutorial)
 - [Пул констант](https://habr.com/ru/post/222519)
