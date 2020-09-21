@@ -101,6 +101,8 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## Functional
 
 - [Зачем нужны все эти функторы и монады?](https://habr.com/ru/post/212955/)
+- [Монады как паттерн переиспользования кода](https://habr.com/ru/post/490112/)
+- [Парсите, а не валидируйте](https://habr.com/ru/post/498042/)
 - [Functional data types implemented in Java](https://github.com/tonivade/purefun)
 - [Functional style domain modeling example](https://github.com/ddd-by-examples/library#functional-thinking)
 - [Java Lambda FAQ](http://www.lambdafaq.org/)
