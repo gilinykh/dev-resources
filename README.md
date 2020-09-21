@@ -104,6 +104,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Functional data types implemented in Java](https://github.com/tonivade/purefun)
 - [Functional style domain modeling example](https://github.com/ddd-by-examples/library#functional-thinking)
 - [Java Lambda FAQ](http://www.lambdafaq.org/)
+- [Refactoring registration flow to functional architecture](https://blog.ploeh.dk/2019/12/02/refactoring-registration-flow-to-functional-architecture/)
 
 ## Blogs
 
