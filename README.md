@@ -1,5 +1,36 @@
 # dev-resources
 
+## JVM bytecode
+- [The Java Language Specification - Chapter 3. Compiling for the Java Virtual Machine](https://docs.oracle.com/javase/specs/jvms/se15/html/jvms-3.html)
+  - [Java Bytecode Crash Course](https://inside.java/2019/09/17/video-bytecodecourse/)
+  - [Invokedynamic for Mere Mortals](https://inside.java/2019/09/19/invokedynamicformortals/)
+- [JVM internals](https://blog.jamesdbloom.com/JVMInternals.html)
+- [Java bytecode tutorial](https://www.jrebel.com/blog/java-bytecode-tutorial)
+- [Пул констант](https://habr.com/ru/post/222519)
+- [Java байткод "Hello world"](https://habr.com/ru/post/264919)
+- [Hello World из байт-кода для JVM](https://habr.com/ru/post/480550)
+- [О стеке и куче в Java](https://www.tune-it.ru/web/bleizard/blog/-/blogs/o-steke-i-kuce-v-kontekste-mira-java)
+- [Варим байткод на кухне JVM](https://habr.com/ru/company/domclick/blog/500646/)
+- [How do lambda expressions really work in Java](https://blogs.oracle.com/javamagazine/behind-the-scenes-how-do-lambda-expressions-really-work-in-java)
+
+## Functional
+
+- [Зачем нужны все эти функторы и монады?](https://habr.com/ru/post/212955/)
+- [Монады как паттерн переиспользования кода](https://habr.com/ru/post/490112/)
+- [Парсите, а не валидируйте](https://habr.com/ru/post/498042/)
+- [Functional data types implemented in Java](https://github.com/tonivade/purefun)
+- [Functional style domain modeling example](https://github.com/ddd-by-examples/library#functional-thinking)
+- [Java Lambda FAQ](http://www.lambdafaq.org/)
+- [Refactoring registration flow to functional architecture](https://blog.ploeh.dk/2019/12/02/refactoring-registration-flow-to-functional-architecture/)
+
+## Clean code
+- [Глубокое погружение в SRP](https://habr.com/ru/post/465507)
+
+## Algorithms / Datastructures
+
+- [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
+- [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
+
 ## SQL
 
 https://use-the-index-luke.com/
@@ -17,25 +48,18 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
 
-## JVM bytecode
-- [The Java Language Specification - Chapter 3. Compiling for the Java Virtual Machine](https://docs.oracle.com/javase/specs/jvms/se15/html/jvms-3.html)
-  - [Java Bytecode Crash Course](https://inside.java/2019/09/17/video-bytecodecourse/)
-  - [Invokedynamic for Mere Mortals](https://inside.java/2019/09/19/invokedynamicformortals/)
-- [JVM internals](https://blog.jamesdbloom.com/JVMInternals.html)
-- [Java bytecode tutorial](https://www.jrebel.com/blog/java-bytecode-tutorial)
-- [Пул констант](https://habr.com/ru/post/222519)
-- [Java байткод "Hello world"](https://habr.com/ru/post/264919)
-- [Hello World из байт-кода для JVM](https://habr.com/ru/post/480550)
-- [О стеке и куче в Java](https://www.tune-it.ru/web/bleizard/blog/-/blogs/o-steke-i-kuce-v-kontekste-mira-java)
-- [Варим байткод на кухне JVM](https://habr.com/ru/company/domclick/blog/500646/)
+## Evolution
 
-## Clean code
-- [Глубокое погружение в SRP](https://habr.com/ru/post/465507)
+- [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
+- [Правильное использование Pomodoro](https://habr.com/ru/company/maxilect/blog/486238/)
+- [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [First Year as a Solo Developer](https://mtlynch.io/solo-developer-year-1/)
 
-## Algorithms / Datastructures
+## People
 
-- [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
-- [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Карта навыков и модель развития тимлидов](https://github.com/tlbootcamp/tlroadmap)
+- [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
+- [Software Engineering Career Ladder example](https://docs.google.com/spreadsheets/d/12h50IYqd7fsO7tJ0l1OuHYbz5vN2d24a8EIDFhu2AZQ)
 
 ## Technology
 
@@ -57,19 +81,6 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## Command line
 
 - [The art of command line](https://github.com/jlevy/the-art-of-command-line)
-
-## Evolution
-
-- [Scaling Yourself - Scott Hanselman](https://www.youtube.com/watch?v=FS1mnISoG7U)
-- [Правильное использование Pomodoro](https://habr.com/ru/company/maxilect/blog/486238/)
-- [Developer roadmap](https://github.com/kamranahmedse/developer-roadmap)
-- [First Year as a Solo Developer](https://mtlynch.io/solo-developer-year-1/)
-
-## People
-
-- [Карта навыков и модель развития тимлидов](https://github.com/tlbootcamp/tlroadmap)
-- [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
-- [Software Engineering Career Ladder example](https://docs.google.com/spreadsheets/d/12h50IYqd7fsO7tJ0l1OuHYbz5vN2d24a8EIDFhu2AZQ)
 
 ## UI
 
@@ -98,16 +109,6 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 - [Choco solver](https://github.com/chocoteam/choco-solver)
 - [OR tools](https://github.com/google/or-tools)
-
-## Functional
-
-- [Зачем нужны все эти функторы и монады?](https://habr.com/ru/post/212955/)
-- [Монады как паттерн переиспользования кода](https://habr.com/ru/post/490112/)
-- [Парсите, а не валидируйте](https://habr.com/ru/post/498042/)
-- [Functional data types implemented in Java](https://github.com/tonivade/purefun)
-- [Functional style domain modeling example](https://github.com/ddd-by-examples/library#functional-thinking)
-- [Java Lambda FAQ](http://www.lambdafaq.org/)
-- [Refactoring registration flow to functional architecture](https://blog.ploeh.dk/2019/12/02/refactoring-registration-flow-to-functional-architecture/)
 
 ## Blogs
 
