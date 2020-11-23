@@ -102,6 +102,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 
 ## Concurrency
 
+- [Финансовое latency critical приложение на Java и Akka](https://habr.com/ru/company/dbtc/blog/527822/)
 - [CSP for Java programmers](https://www.ibm.com/developerworks/library/j-csp1/index.html)
 - [Лекториум - Параллельное программирование](https://www.lektorium.tv/course/23050)
 
