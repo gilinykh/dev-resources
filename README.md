@@ -23,6 +23,14 @@
 - [Java Lambda FAQ](http://www.lambdafaq.org/)
 - [Refactoring registration flow to functional architecture](https://blog.ploeh.dk/2019/12/02/refactoring-registration-flow-to-functional-architecture/)
 
+## Concurrency
+
+- [Финансовое latency critical приложение на Java и Akka](https://habr.com/ru/company/dbtc/blog/527822/)
+- [CSP for Java programmers](https://www.ibm.com/developerworks/library/j-csp1/index.html)
+- [Лекториум - Параллельное программирование](https://www.lektorium.tv/course/23050)
+- [Java concurrency code review checklist](https://github.com/code-review-checklists/java-concurrency)
+- [Java concurrency patterns](https://github.com/LeonardoZ/java-concurrency-patterns)
+
 ## Clean code
 - [Глубокое погружение в SRP](https://habr.com/ru/post/465507)
 
@@ -99,12 +107,6 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Awesome Java](https://github.com/akullpp/awesome-java)
 - [Useful Java links](https://github.com/Vedenin/useful-java-links/tree/master/link-rus)
 - [Java & Files](https://www.marcobehler.com/guides/java-files)
-
-## Concurrency
-
-- [Финансовое latency critical приложение на Java и Akka](https://habr.com/ru/company/dbtc/blog/527822/)
-- [CSP for Java programmers](https://www.ibm.com/developerworks/library/j-csp1/index.html)
-- [Лекториум - Параллельное программирование](https://www.lektorium.tv/course/23050)
 
 ## Constraint programming
 
