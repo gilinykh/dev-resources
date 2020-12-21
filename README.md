@@ -113,6 +113,11 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 - [Choco solver](https://github.com/chocoteam/choco-solver)
 - [OR tools](https://github.com/google/or-tools)
 
+## SRE
+
+- [Управление Java Flight Recorder](https://habr.com/ru/company/krista/blog/532632/)
+- [Использование journalctl для просмотра и анализа логов](https://habr.com/ru/company/ruvds/blog/533918/)
+
 ## Blogs
 
 - [Java Magazine](https://blogs.oracle.com/javamagazine/)
