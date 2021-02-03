@@ -85,6 +85,7 @@ https://github.com/openmessaging/specification/blob/master/specification-schema.
 ## System design
 
 - [System design primer](https://github.com/donnemartin/system-design-primer)
+- [5 диаграмм для документирования архитектуры решений](https://habr.com/ru/company/epam_systems/blog/538018/)
 
 ## Command line
 
