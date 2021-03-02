@@ -31,8 +31,10 @@
 - [Java concurrency code review checklist](https://github.com/code-review-checklists/java-concurrency)
 - [Java concurrency patterns](https://github.com/LeonardoZ/java-concurrency-patterns)
 
-## Clean code
-- [Глубокое погружение в SRP](https://habr.com/ru/post/465507)
+## SRE
+
+- [Управление Java Flight Recorder](https://habr.com/ru/company/krista/blog/532632/)
+- [Использование journalctl для просмотра и анализа логов](https://habr.com/ru/company/ruvds/blog/533918/)
 
 ## Algorithms / Datastructures
 
@@ -57,6 +59,9 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 ## Event sourcing
 
 - [Building an Event Storage](https://cqrs.wordpress.com/documents/building-event-storage/)
+
+## Clean code
+- [Глубокое погружение в SRP](https://habr.com/ru/post/465507)
 
 ## Evolution
 
@@ -83,6 +88,8 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 ## Interview
 
 - [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [How to Study for Data-Structures and Algorithms Interviews at FAANG](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
+- [My Preparation Journey for Google Interviews](https://medium.com/swlh/my-preparation-journey-for-google-interviews-f41e2dc3cdf9)
 
 ## System design
 
@@ -115,11 +122,6 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 
 - [Choco solver](https://github.com/chocoteam/choco-solver)
 - [OR tools](https://github.com/google/or-tools)
-
-## SRE
-
-- [Управление Java Flight Recorder](https://habr.com/ru/company/krista/blog/532632/)
-- [Использование journalctl для просмотра и анализа логов](https://habr.com/ru/company/ruvds/blog/533918/)
 
 ## Blogs
 
