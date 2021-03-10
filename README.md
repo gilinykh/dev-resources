@@ -55,6 +55,7 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 - ["smart-broker and dumb-consumer" VS "dumb-broker and smart-consumer"](https://medium.com/better-programming/rabbitmq-vs-kafka-1779b5b70c41)
 - https://content.pivotal.io/blog/understanding-when-to-use-rabbitmq-or-apache-kafka
 - https://github.com/openmessaging/specification/blob/master/specification-schema.md
+- [The Log: What every software engineer should know about real-time data's unifying abstraction](https://engineering.linkedin.com/distributed-systems/log-what-every-software-engineer-should-know-about-real-time-datas-unifying)
 
 ## Event sourcing
 
