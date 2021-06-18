@@ -41,6 +41,8 @@
 
 - [Big-O Cheatsheet](https://www.bigocheatsheet.com/)
 - [Javascript algorithms](https://github.com/trekhleb/javascript-algorithms)
+- [Visualising data structures and algorithms through animation](https://visualgo.net)
+- [Интерактивные визуализации с комментариями к коду](https://code-explained.com)
 
 ## SQL
 
