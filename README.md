@@ -100,6 +100,7 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 
 - [System design primer](https://github.com/donnemartin/system-design-primer)
 - [5 диаграмм для документирования архитектуры решений](https://habr.com/ru/company/epam_systems/blog/538018/)
+- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 
 ## Command line
 
