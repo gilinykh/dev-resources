@@ -136,3 +136,7 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 - [Java Annotated Monthly](https://blog.jetbrains.com/idea/tag/java-annotated/)
 - [Inside the Java Platform](https://inside.java/)
 - [CodeFX](https://blog.codefx.org/)
+
+## JMM
+
+- [Happens-before relationship with AtomicReference](https://stackoverflow.com/questions/22364309/use-of-atomic-reference-in-effective-jave-example)
