@@ -95,6 +95,7 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 - [How to Study for Data-Structures and Algorithms Interviews at FAANG](https://medium.com/swlh/how-to-study-for-data-structures-and-algorithms-interviews-at-faang-65043e00b5df)
 - [My Preparation Journey for Google Interviews](https://medium.com/swlh/my-preparation-journey-for-google-interviews-f41e2dc3cdf9)
 - [Java backend interview questions](https://github.com/jmorozov/awesome-java-backend-interview-rus)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
 ## System design
 
