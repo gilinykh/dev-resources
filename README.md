@@ -80,6 +80,7 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 - [Performance Reviews for Software Developers](https://blog.pragmaticengineer.com/performance-reviews-for-software-engineers/)
 - [Software Engineering Career Ladder example](https://docs.google.com/spreadsheets/d/12h50IYqd7fsO7tJ0l1OuHYbz5vN2d24a8EIDFhu2AZQ)
 - [Code review — bad, expensive, ineffective (in most cases)](https://github.com/sharovatov/teamlead/blob/master/codereview_en.md)
+- [Рецепты для тимлида: как всё успевать и развивать команду](https://habr.com/ru/company/badoo/blog/478722/)
 
 ## Technology
 
