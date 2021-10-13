@@ -31,6 +31,7 @@
 - [Лекториум - Параллельное программирование](https://www.lektorium.tv/course/23050)
 - [Java concurrency code review checklist](https://github.com/code-review-checklists/java-concurrency)
 - [Java concurrency patterns](https://github.com/LeonardoZ/java-concurrency-patterns)
+- [Синхронизаторы Java в бытовых примерах](https://habr.com/ru/post/277669/)
 
 ## SRE
 
