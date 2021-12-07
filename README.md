@@ -145,3 +145,7 @@ https://www.marcobehler.com/guides/java-microservices-a-practical-guide
 ## JMM
 
 - [Happens-before relationship with AtomicReference](https://stackoverflow.com/questions/22364309/use-of-atomic-reference-in-effective-jave-example)
+
+## JVM
+
+- [5 Mundane Java Performance Tips](https://richardstartin.github.io/posts/5-java-mundane-performance-tricks)
