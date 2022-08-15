@@ -45,9 +45,11 @@
 - [Visualising data structures and algorithms through animation](https://visualgo.net)
 - [Интерактивные визуализации с комментариями к коду](https://code-explained.com)
 
-## SQL
+## Database
 
-https://use-the-index-luke.com/
+- [Use the index, Luke](https://use-the-index-luke.com/)
+- [Clickhouse - Everything you should know about materialized views](https://den-crane.github.io/Everything_you_should_know_about_materialized_views_commented.pdf)
+- [PostgreSQL Performance Essentials in 1 Hour](https://github.com/evgeniy-khist/postgresql-performance-essentials)
 
 ## Microservices
 
