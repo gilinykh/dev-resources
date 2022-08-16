@@ -37,6 +37,7 @@
 
 - [Управление Java Flight Recorder](https://habr.com/ru/company/krista/blog/532632/)
 - [Использование journalctl для просмотра и анализа логов](https://habr.com/ru/company/ruvds/blog/533918/)
+- [Ускоряем Nginx за 5 минут](https://habr.com/ru/post/198982/)
 
 ## Algorithms / Datastructures
 
